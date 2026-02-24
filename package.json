@@ -23,8 +23,8 @@
     "node": ">=18"
   },
   "scripts": {
-    "test": "node bin/banjarscript.js examples/fitur.bjs",
-    "emit": "node bin/banjarscript.js --emit-js examples/fitur.bjs > out.js && node out.js"
+    "test": "node bin/banjarscript.js program/contoh.bjs",
+    "emit": "node bin/banjarscript.js --emit-js program/contoh.bjs > out.js && node out.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
