@@ -29,7 +29,7 @@
     },
     {
       "name": "keyword.control.banjarscript",
-      "match": "\\b(mun|nanglain|lain|gasan|munkada|selagi|selama|balikan|bulikakan)\\b"
+      "match": "\\b(mun|nanglain|lain|gasan|munkada|selagi|selama|balikan|bulikakan|perubahan|kasus|hancurakan|dasarnya)\\b"
     },
     {
       "name": "constant.language.boolean.banjarscript",
